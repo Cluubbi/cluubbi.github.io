@@ -64,7 +64,7 @@ alt = shape
 
 Hot topics
 
-Don't miss out on the latest news about Travel tips, Hotels review, Food guide...
+Donnnnn't miss out on the latest news about Travel tips, Hotels review, Food guide...
 
 aria-label = previous
 <ion-icon name="arrow-back" aria-hidden="true"></ion-icon>
