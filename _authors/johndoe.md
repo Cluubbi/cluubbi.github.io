@@ -1,8 +1,8 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
+name: Attila Molnár
+username: amolnar
+bio: "Hi I'm here to help !."
+site: http://this.com
 avatar: johndoe.png
 email: mail@johndoe.com
 social:
