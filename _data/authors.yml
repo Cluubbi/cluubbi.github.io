@@ -1,10 +1,10 @@
 # Add Authors here
 johndoe:
-   name: John Doe
-   username: johndoe
+   name: Attila
+   username: Test
    site: http://johndoe.com
    avatar: johndoe.png
-   bio: "Hi I a John, a Web Developer and Designer."
+   bio: "Who uis ."
    email: mail@johndoe.com
    social:
       - title: "github"
